@@ -1,3 +1,12 @@
+### input받기
+from this import d
+
+
+# a=input()
+# input() 받은것은 문자열(str) a=b 비교불가
+# 따라서 a=int(input())
+# n=1로 놓고
+# %d 번째 로또 : %n
 
 
 import random
